@@ -1,0 +1,1 @@
+I need 404 template for wordpress, then i created it
